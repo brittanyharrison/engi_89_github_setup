@@ -2,7 +2,7 @@
 
 This documentation will go through how to set up Git and Github.
 
-![git.png](PicsandVideo/Pictures/git.png)
+![git.png](/Users/brittany/Documents/Pics and Video/Pictures/git.png)
 
 #### Step 1: Download Git 
 The first step is to download Git and Git.bash on your localhost.
