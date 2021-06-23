@@ -2,7 +2,7 @@
 
 This documentation will go through how to set up Git and Github.
 
-![git.png](/Users/brittany/Documents/Pics and Video/Pictures/git.png)
+![git.png](https://trello-attachments.s3.amazonaws.com/603d260f5690ef1cd5b54430/60d05369263b542bdb3c3361/35665861b9b1a7ea274e0d5c8fb9d53d/Screenshot_(26).png)
 
 #### Step 1: Download Git 
 The first step is to download Git and Git.bash on your localhost.
