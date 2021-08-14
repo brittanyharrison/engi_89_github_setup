@@ -52,7 +52,7 @@ You must generate a ssh key to use for authentication.
 - `git push -u origin main` To push changes to Github 
 
 **Clone a specific remote branch**
-- `git clone --branch main git@ssh.dev.azure.com:v3/bkharrison/Azure/Azure` : git clone --branch <<branch name>> <<<<git repo link>>>>
+- `git clone --branch main git@ssh.dev.azure.com:v3/bkharrison/Azure/Azure` : git clone --branch (branch name) (git repo link)
 
 
 
