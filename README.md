@@ -34,6 +34,9 @@ You must generate a ssh key to use for authentication.
 5. When on Github, open `Settings` then `SSH and GPG keys` then click `New SSH key` . Now paste 
 
 #### Step 3: Initializing a repo
+
+- `git pull`
+
 - `git init` To check what's added to be sent to git hub
 
 - `git status` To ensure only required files are added to be sent
@@ -48,7 +51,8 @@ You must generate a ssh key to use for authentication.
 
 - `git push -u origin main` To push changes to Github 
 
-
+**Clone a specific remote branch
+- `git clone --branch main git@ssh.dev.azure.com:v3/bkharrison/Azure/Azure` : git clone --branch <branch name> <git repo link> 
 
 
 
